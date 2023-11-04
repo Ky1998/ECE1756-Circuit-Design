@@ -1,0 +1,29 @@
+Quartus Prime Archive log --	/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe_kaiyi_yuan.qarlog
+
+Archive:	/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe_kaiyi_yuan.qar
+Date:		Tue Oct 10 12:44:20 2023
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Standard Edition
+
+	=========== Files Selected: ===========
+/cad1/Altera/20.1/quartus/linux64/assignment_defaults.qdf
+/nfs/ug/homes-0/y/yuankaiy/Downloads/SDC1.sdc
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe.qpf
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe.qsf
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe.sv
+/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe_tb.v
+	======= Total: 6 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 10 22:55:47 2023
+Source archive file:	/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe_kaiyi_yuan.qar
+Archive was extracted into	/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe_kaiyi_yuan_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Tue Oct 10 23:12:19 2023
+Source archive file:	/homes/y/yuankaiy/Downloads/lab1_pipe_kaiyi_yuan.qar
+Archive was extracted into	/nfs/ug/homes-0/y/yuankaiy/Downloads/lab1_pipe_kaiyi_yuan_restored/
+		 - successfully.
